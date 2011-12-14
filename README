@@ -1,0 +1,6 @@
+Yet another ARM GCC toolchain builder. 
+Use sh ./arm-toolchain.sh to install it on your desktop. 
+
+This script was tested at Ubuntu 11.10 and Fedora 16. Toolchain was tested on STM32 Discovery Board.
+
+Have a nice work!
